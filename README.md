@@ -1,4 +1,4 @@
-# -Heart-Attack-Analysis-Prediction.-Feature-Selection-by-ARM-
+# -Heart-Attack-Analysis-Prediction.-(Feature_Selection_by-Association_Rule_Mining)
 
 The project involves the analysis and prediction of heart attacks based on a dataset containing 
 various health-related features. The dataset includes information such as age, sex, exercise
